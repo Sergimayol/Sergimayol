@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Sergi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergimayol)](https://github.com/anuraghazra/github-readme-stats)
+[![Sergimayol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergimayol)](https://github.com/anuraghazra/github-readme-stats)
+![Sergimayol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergimayol&hide=contribs,prs)
+![Sergimayol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergimayol&count_private=true)
+![Sergimayol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergimayol&show_icons=true)
+![Sergimayol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergimayol&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol)](https://github.com/Sergimayol/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&exclude_repo=github-readme-stats,Sergimayol.github.io)](https://github.com/Sergimayol/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&hide=javascript,html)](https://github.com/Sergimayol/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&langs_count=8)](https://github.com/Sergimayol/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&layout=compact)](https://github.com/Sergimayol/github-readme-stats)
