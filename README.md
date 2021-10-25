@@ -23,7 +23,15 @@ Here are some ideas to get you started:
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python">
 <br />
 <br />
-![Sergimayol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergimayol&count_private=true&hide=contribs,prs&theme=vue-dark)
+
+<details>	
+  <summary><b>Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergimayol&show_icons=true&theme=vue-dark&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
+</details>
+
 <!--
 [![Sergimayol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergimayol)](https://github.com/anuraghazra/github-readme-stats)
 ![Sergimayol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergimayol&count_private=true)
