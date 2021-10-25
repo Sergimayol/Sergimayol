@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![GitHub Thaiane](https://img.shields.io/github/followers/Sergimayol.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sergimayol)
 ![](https://visitor-badge.glitch.me/badge?page_id=Sergimayol&style=flat-square&color=0088cc)
-### **Languages and Tools:** 
+### Languages and Tools:
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
