@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<details>Veiw GitHub Stats</details>
 ![Sergimayol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergimayol&count_private=true&hide=contribs,prs&theme=vue-dark)
 <!--
 [![Sergimayol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergimayol)](https://github.com/anuraghazra/github-readme-stats)
