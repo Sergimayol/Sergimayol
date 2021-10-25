@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://visitor-badge.glitch.me/badge?page_id=Sergimayol&style=flat-square&color=0088cc)
 ### **Languages and Tools:** 
 
 <!-- Your github readme stats
