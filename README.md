@@ -36,4 +36,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&hide=html)](https://github.com/Sergimayol/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&langs_count=8)](https://github.com/Sergimayol/github-readme-stats)
 -->
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&layout=compact&hide=html&theme=vue-dark)](https://github.com/Sergimayol/github-readme-stats)
