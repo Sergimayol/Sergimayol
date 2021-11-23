@@ -3,7 +3,7 @@
 ### Welcome to my GitHub
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+there+👋!;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+there+👋!;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
 
 [![GitHub Sergimayol](https://img.shields.io/github/followers/Sergimayol.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sergimayol)
 ![](https://visitor-badge.glitch.me/badge?page_id=Sergimayol&style=flat-square&color=0088cc)
