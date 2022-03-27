@@ -2,21 +2,20 @@
 ### Hi there 👋 
 ### Welcome to my GitHub
 -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&layout=compact&theme=graywhite&langs_count=10&exclude_repo=kasweb">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=808080&size=30&lines=Hi+there+👋!;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
 
 [![GitHub Sergimayol](https://img.shields.io/github/followers/Sergimayol.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sergimayol)
 ![](https://visitor-badge.glitch.me/badge?page_id=Sergimayol&style=flat-square&color=0088cc)
 ### Languages and Tools:
-
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/Sergimayol/handle-path-oz">
+   <a href="https://github.com/Sergimayol/handle-path-oz">
     <img width="55%" align="right" alt="Sergimayol's github stats" src="https://github-readme-stats.vercel.app/api?username=Sergimayol&show_icons=true&hide_border=true&theme=graywhite" />
   </a>
-  
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
