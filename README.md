@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&layout=compact&theme=graywhite&langs_count=10&exclude_repo=Estadistica">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&layout=compact&theme=graywhite&hide_border=true&langs_count=10&exclude_repo=Estadistica">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=808080&size=30&lines=Hi+there+👋!;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
 
