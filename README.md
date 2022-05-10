@@ -1,33 +1,30 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&layout=compact&theme=graywhite&hide_border=true&langs_count=10&exclude_repo=Estadistica">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=808080&size=30&lines=Hi+there+👋!;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87F7D6FF&size=30&lines=Hi+there+👋!;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
 
 [![GitHub Sergimayol](https://img.shields.io/github/followers/Sergimayol.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sergimayol)
 ![](https://visitor-badge.glitch.me/badge?page_id=Sergimayol&style=flat-square&color=0088cc)
-### Languages and Tools:
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
+
+### Languages & Tools
 <p>
-   <a href="https://github.com/Sergimayol/handle-path-oz">
-    <img width="55%" align="right" alt="Sergimayol's github stats" src="https://github-readme-stats.vercel.app/api?username=Sergimayol&show_icons=true&hide_border=true&theme=graywhite" />
-  </a>
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" margin-bottom="5px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" height="45px" src="https://simpleicons.org/icons/apachenetbeanside.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" height="40px" src="https://simpleicons.org/icons/c.svg"></code>
-  <!--<br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</br>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</br>
+</p>
+<p align="right">
+<img width="50%" alt="Sergimayol's github stats" src="https://github-readme-stats.vercel.app/api?username=Sergimayol&show_icons=true&hide_border=true&theme=graywhite">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&layout=compact&theme=graywhite&hide_border=true&langs_count=10&exclude_repo=Estadistica">
 </p>
