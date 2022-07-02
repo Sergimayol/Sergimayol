@@ -26,5 +26,5 @@
 </p>
 <p align="right">
 <img width="50%" alt="Sergimayol's github stats" src="https://github-readme-stats.vercel.app/api?username=Sergimayol&show_icons=true&hide_border=true&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&layout=compact&hide=makefile,matlab&theme=dark&hide_border=true&langs_count=10&exclude_repo=Estadistica">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&layout=compact&hide=makefile,matlab,html,c%2B%2B&theme=dark&hide_border=true&langs_count=10&exclude_repo=Estadistica">
 </p>
