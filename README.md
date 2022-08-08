@@ -3,7 +3,7 @@
 [![GitHub Sergimayol](https://img.shields.io/github/followers/Sergimayol.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sergimayol)
 ![](https://visitor-badge.glitch.me/badge?page_id=Sergimayol&style=flat-square&color=0088cc)
 
-### Languages & Tools
+## Languages & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -26,7 +26,7 @@
 </br>
 </p>
 
-### Stats
+## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" alt="Sergimayol's github stats" src="https://github-readme-stats.vercel.app/api?username=Sergimayol&show_icons=true&hide_border=true&theme=dark">
