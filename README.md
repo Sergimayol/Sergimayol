@@ -31,4 +31,4 @@
 
 ## Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sergimayol?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&layout=compact&langs_count=8&hide=html,matlab,css&bg_color=1e2228&text_color=adbac7&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergimayol&layout=compact&langs_count=8&hide=html,matlab,css,shell&bg_color=1e2228&text_color=adbac7&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
